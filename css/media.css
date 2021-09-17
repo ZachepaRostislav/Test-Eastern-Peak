@@ -1,0 +1,52 @@
+@media(max-width:1280px) {
+   .left {
+   left: 35%;
+ }
+
+ .right {
+   right: 35%;
+ }
+}
+@media(max-width:1024px) {
+   .left {
+   left: 32%;
+ }
+
+ .right {
+   right: 32%;
+ }
+}
+@media(max-width:768px) {
+   .left {
+   left: 25%;
+ }
+
+ .right {
+   right: 25%;
+ }
+}
+@media(max-width:480px) {
+   .left {
+   left: 10%;
+ }
+
+ .right {
+   right: 10%;
+ }
+}
+
+@media (max-width:320px) {
+ .left ,
+ .right {
+   width: 33px;   
+ }
+
+ .left {
+   left: 0;
+ }
+
+ .right {
+   right: 0;
+ }
+}
+
